@@ -1,0 +1,36 @@
+body{
+    background-color: rgba(0, 128, 0, 0.212);
+}
+h1{
+    background-color: rgba(8, 131, 14, 0.5);
+}
+
+*{
+    text-align: center;
+}
+img{
+    height: 400px;
+    width: 700px;
+}
+
+* p{
+    font-size: 200%; 
+
+}
+
+h3{
+    margin-top: 0px;
+}
+
+
+/* esses omandos eu usei pra "colar" "grudar" aquela frase no health life */
+h1{
+    margin-bottom: 0px;
+    font-size: 400%;
+}
+
+
+
+#buttom-bottom{
+    
+}
