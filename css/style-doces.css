@@ -1,0 +1,21 @@
+body{
+    background-color: bisque;
+}
+
+*{
+    text-align: center;
+}
+h1{
+    background-color: pink;
+    font-size: 300%;
+}
+
+a{
+    background-color: rgba(240, 126, 255, 0.192);
+    border-radius: 30px;
+    color: rgb(0, 0, 0);
+    font-size: 200%;
+    font-weight: 600;
+    padding: 0.5%;
+
+}

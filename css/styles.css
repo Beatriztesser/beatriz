@@ -1,5 +1,6 @@
 h1{
     background-color: rgb(218, 139, 87);
+    font-size: 250%;
 }
 
 
@@ -11,11 +12,9 @@ h1{
     font-family: arial;
 }
 
-
 *{
     text-align: center;
 }
-
 
 li{
     width: fit-content;
@@ -29,7 +28,7 @@ img{
 
 ul {
     margin: 2px;
-    font-size: 25px;
+    font-size: 130%;
 }
 
 div{
@@ -42,7 +41,7 @@ div{
 
 ol{
     margin: 30px 7px;
-    font-size: 120%;
+    font-size: 130%;
     
 }
 
@@ -51,13 +50,13 @@ ol{
     border-top: 5px solid yellow;
     border-left: 4px double blue;
     border-bottom: 30px dotted green
-
 } */
 
 img{ 
-    border: 1px solid rgb(0, 0, 0);
-    margin: 10px;
+    border: 4px solid rgb(0, 0, 0);
+    margin: 30px;
     border-radius: 40px 40px;
+
     /* padding: 1px; */
 }
 
@@ -69,12 +68,20 @@ img{
 
 #modo{
     /* border: 4px solid black; */
-    background-color: ;
     font-size: 155%;
 }
 
 
 h3{
-    font-size: 130%;
+    font-size: 160%;
 }
+
+/* div{
+    background-image: url('../img/Receitas-Saudaveis-__para-Todos-os-Dias-Nutricao-e-Sabor-em-Cada-Refeicao.webp');
+    height: 200vh;
+    width: 60vw;
+    /* background-position: center;
+ }  */
+    
+
 
