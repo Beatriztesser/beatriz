@@ -8,6 +8,7 @@ body{
 h1{
     background-color: pink;
     font-size: 300%;
+    font-family: arial;
 }
 
 a{
@@ -18,4 +19,61 @@ a{
     font-weight: 600;
     padding: 0.5%;
 
+}
+
+
+#deixa os pontoinhos da lista acomphando texto
+li{
+    width: fit-content;
+    margin: auto;
+}
+
+ul{
+    margin: 2px;
+    font-size: 130%;
+}
+
+
+
+body{
+    background-color: rgba(255, 152, 17, 0.384);
+}
+
+
+
+li{
+    width: fit-content;
+    margin: auto;
+}
+
+img{
+    height: 400px;
+    width: 700px;
+}
+
+ul {
+    margin: 2px;
+    font-size: 130%;
+}
+
+div{
+    margin: 4px auto;
+    padding: 10px;
+    width: fit-content;
+    /* height: 70px; */
+    
+}
+
+ol{
+    margin: 30px 7px;
+    font-size: 130%;
+    
+}
+
+img{ 
+    border: 4px solid rgb(0, 0, 0);
+    margin: 30px;
+    border-radius: 40px 40px;
+
+ 
 }

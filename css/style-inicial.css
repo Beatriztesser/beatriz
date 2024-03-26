@@ -5,7 +5,7 @@ body{
 /* esses omandos eu usei pra "colar" "grudar"(o do margin bottom) aquela frase no health life */
 h1{
     background-color: rgba(8, 131, 14, 0.5);
-    font-size: 260%;
+    font-size: 300%;
     margin-bottom: 10px;
 }
 
@@ -27,26 +27,37 @@ h3{
     margin-bottom: 40px;
     font-size: 130%;
     margin-top: 0px;
-
 }
 
 
+
+
+
+/* tudo pra mesma coisas abaixo */
 a{
-    background-color: green;
-    border-radius: 30px;
     color: white;
-    font-size: 200%;
+    font-size: 150%;
     font-weight: 600;
     padding: 0.5%;
+    text-decoration: none;
+}
 
+ul{
+    background-color: rgb(166, 170, 170);
+}
 
+li {
+    display: inline;
+}
+
+a:hover{
+    color: black;
 }
 
 
-
-
-
-
-
-
-aula exemplos
+#morangoo{
+    width: 20%;
+    height: 40%;
+    position: relative;
+    left: 60px;
+}

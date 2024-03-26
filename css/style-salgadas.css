@@ -18,6 +18,12 @@ a{
     font-size: 200%;
     font-weight: 600;
     padding: 0.5%;
-
-
+}
+li{
+    width: fit-content;
+    margin: auto;
+}
+ul {
+    margin: 2px;
+    font-size: 130%;
 }
